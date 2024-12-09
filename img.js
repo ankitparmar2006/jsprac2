@@ -11,11 +11,13 @@ img.src='img1.png'
 )
 
 
+
 let box2=document.querySelector(".box2");
 
 box2.addEventListener("mouseenter",function () {
     img.src="img2.png"
 })
+
 
 let box3 =document.querySelector(".box3")
 
